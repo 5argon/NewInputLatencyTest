@@ -1,0 +1,16 @@
+.DS_Store
+Library
+Temp
+OSXBuild
+WindowsBuild
+ProfilerSamples
+iOSBuild
+AndroidBuild
+AndroidBuild.apk
+obj
+*.csproj
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
+*node_modules*

@@ -1,0 +1,1 @@
+{"maps":[{"name":"HelloActionMap","actions":[{"name":"HelloTouchAction","bindings":[]}],"bindings":[{"name":"","path":"<Touchscreen>","interactions":"","processors":"","groups":"","action":"HelloTouchAction","chainWithPrevious":false,"isComposite":false,"isPartOfComposite":false,"modifiers":""}]}]}
